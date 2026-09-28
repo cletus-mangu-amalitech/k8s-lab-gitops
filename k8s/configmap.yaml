@@ -10,7 +10,7 @@ data:
       <title>DevOps GitOps Lab</title>
     </head>
     <body>
-      <h1>Hello from Kubernetes!</h1>
+      <h1>GitOps Version 2!</h1>
       <h2>NGINX deployed using Argo CD</h2>
       <p>Project 1: Kind + Kubernetes + GitHub + Argo CD</p>
     </body>
